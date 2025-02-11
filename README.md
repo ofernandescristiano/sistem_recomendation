@@ -1,3 +1,3 @@
-### Estudy for recomend flight routes
+# Estudy for recomend flight routes
 
-# Using data from Kagle "NY FLIGHTS"
+### Using data from Kagle "NY FLIGHTS"
